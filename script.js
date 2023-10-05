@@ -11,7 +11,7 @@ form.addEventListener("submit", (event) => {
         api(place, checkIn, checkOut, guestNo);
         setTimeout(() => {
             window.location.href = 'listing.html';
-        }, 2000);
+        }, 5000);
     } else {
         alert("Give all Value");
     }
