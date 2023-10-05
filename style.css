@@ -185,6 +185,19 @@ nav {
     margin-top: 20px;
     display: inline-block;
 }
+.footer p{
+    background-color: blue;
+    width: 100%;
+    text-align: center;
+}
+.fa{
+    color: #E90606;
+    margin: 0 3px;
+    font-size: 10px;
+    /* animation: pound .35s infinite alternate;
+    -webkit-animation: pound .35s infinite alternate; */
+}
+
 
 /* ------------Travellers Stories------------ */
 .stories {
